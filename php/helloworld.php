@@ -1,5 +1,5 @@
 <?php
 
 include('pageHeader.php');
-echo '<p>Hello, git user!</p>';
+echo '<p>Hello, Seepu user!</p>';
 include('pageFooter.php');
